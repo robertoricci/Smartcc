@@ -26,7 +26,7 @@ spec.loader.exec_module(engine)
 # ============================================================================
 
 st.set_page_config(
-    page_title="Corte Certo Pro - Sistema Profissional",
+    page_title="SMART - Corte Certo Pro - Sistema Profissional",
     page_icon="🪚",
     layout="wide",
     initial_sidebar_state="expanded"
