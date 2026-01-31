@@ -80,7 +80,7 @@ def menu_lateral():
         
         st.markdown("---")
         st.caption("🪚 Corte Certo Pro v2.0")
-        st.caption("Sistema Profissional de Marcenaria")
+        st.caption("SMART - Sistema Profissional de Marcenaria")
 
 # ============================================================================
 # TELA: CADASTRO DE CLIENTES
@@ -894,7 +894,7 @@ def modal_excluir_fita():
 
 def tela_otimizador():
     """Tela principal de otimização integrada com cadastros"""
-    st.title("🎯 Otimizador de Cortes Profissional")
+    st.title("🎯 SMART - Otimizador de Cortes Profissional")
     
     # Verificar se há chapas e fitas cadastradas
     session = db_manager.get_session()
